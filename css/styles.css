@@ -9,11 +9,12 @@ html{
 }
 
 body{
-
+    
     color: violet;
     text-align: center;
     font-family: Arial;
     font-size: 1.6rem;
+    background-color: black;
 }
 
 .cabecera{
@@ -39,7 +40,14 @@ body{
    text-align: left;
    border: 1px solid rgb(68, 66, 66);
    margin: 0 auto;
+   background-color: rgb(241, 238, 233);
 }
 h1{
     font-size: 2.0rem;
 }
+.cabecera img{
+    width: 30px;
+    
+    
+}
+
