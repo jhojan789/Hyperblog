@@ -1,7 +1,15 @@
+
+# to ignore all jpg files
+
+*.jpg
+
+
  Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,visualstudiocode,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,visualstudiocode,node
 
 ### Linux ###
+
+
 *~
 
 # temporary files which can be created if a process still has a handle open of a deleted file
