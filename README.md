@@ -12,6 +12,7 @@ This is an amazing blog for the Platzi's Git and GitHub course.
 - All Git commands.
 - The Github workflow.
 - The true love for best practices.
+- Created by the incredible Platzi Team.
 
 And as a kind reminder "This README.md is a joke".
 
