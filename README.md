@@ -13,6 +13,7 @@ This is an amazing blog for the Platzi's Git and GitHub course.
 - The Github workflow.
 - The true love for best practices.
 - Created by the incredible Platzi Team.
+- Includes examples in Windows, Linux and Mac.
 
 And as a kind reminder "This README.md is a joke".
 
